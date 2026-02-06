@@ -1,4 +1,4 @@
-# Programa 1: area_perimetro_circulo
+# Programa 1: area_perimeter_circle
 Programam en Phython para Calcular el Area y el Perimetro de un Circulo, dado el valor de su radio.
 
 # Análisis
